@@ -13,3 +13,7 @@
   + Change Regional Formats (Ubuntu: Language Support -> Regional Formats)
   + Select English (US)
   + Restart
+
+## ADDENDUM
+- This is for GIT training only
+- Not a valid comment really
